@@ -1,0 +1,23 @@
+{
+  "name": "matrimoine",
+  "version": "1.0.0",
+  "description": "Une API listant des femmes composant le matrimoine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server db.json"
+  },
+  "keywords": [
+    "matrimoine",
+    "feministe",
+    "feminisme",
+    "api",
+    "artistes",
+    "artiste"
+  ],
+  "author": "J'ai Une Pote Dev",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
