@@ -9,3 +9,8 @@ API listant des femmes composant le matrimoine.
 2. npm install
 3. npm start
 4. Accès à l'application via http://localhost:3000/artistes
+
+# Modèle d'utilisation :
+GET/http://localhost:3000/artistes
+
+
